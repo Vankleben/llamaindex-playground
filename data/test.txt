@@ -1,0 +1,2 @@
+LlamaIndex is a framework for building LLM applications.
+It helps connect LLMs with external data.
